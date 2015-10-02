@@ -1,1 +1,8 @@
 #Write your comments for jupyter notebooks here
+
+
+Q1a, b, c: Elena
+
+Q2a, b, c, d: Michelle
+
+Q2e, f: Shashank
