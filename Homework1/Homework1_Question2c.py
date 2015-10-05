@@ -26,29 +26,20 @@ def hill_func(p, x):
 
     return x**a / (k**a +x**a)
 
-
-#     return a * (np.log(x) - np.log(k))
-
 x = np.linspace(0, 100, 500)
 
 y1 = hill_func(q[0], x)
 y2 = hill_func(q[1], x)
 y3 = hill_func(q[2], x)
 
-
-
 plt.semilogx(x, y1, '-')
 plt.semilogx(x, y2, '-')
 plt.semilogx(x, y3, '-')
 
-# plt.loglog(x, y1, '-')
-# plt.loglog(x, y2, '-')
-# plt.loglog(x, y3, '-')
 plt.margins(x = 0.02, y = 0.02)
 plt.xlabel(r'$x$')
 plt.ylabel(r"$y$")
 plt.legend(('y1', 'y2', 'y3'), loc='lower right',prop={"size":12})
-
 
 plt.draw()
 plt.show()
