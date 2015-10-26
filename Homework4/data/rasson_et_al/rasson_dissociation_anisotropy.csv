@@ -1,0 +1,21 @@
+# These data are from Rasson, et al., Filament assembly by Spire: key
+# residues and concerted actin binding, J. Mol. Biol., in press,
+# available online Sept. 16, 2014.  DOI: 10.1016/j.jmb.2014.09.002
+#
+# This first column has the concentration of fluorescent Sprire D that
+# was used in all dissociation anisotropy experiments.  The second
+# column has the concentration of monomeric actin that was titrated in
+# both dissociation anisotropy experiments.  The last two columns
+# contain the anisotropy measurements for each trial.
+#
+# These data were provided by Amy Rasson and Margot Quinlan.
+[SDfluor] (uM),[actin] (uM) trial 1,anisotropy trial 1,[actin] (uM) trial 2,anisotropy trial 2
+0.005,31.1,115.2,16,126.3
+,16.55,114,8,128.4
+,8.28,113.9,4,126.4
+,4.14,112.7,2,122.4
+,2.07,109,1,119.7
+,1.03,103.7,0.5,115.1
+,0.517,99.6,0.25,109
+,0.129,83.4,0.25,107.5
+,0,58.9,0,76.3

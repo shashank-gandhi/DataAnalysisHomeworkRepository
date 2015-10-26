@@ -1,0 +1,29 @@
+# These data are from Rasson, et al., Filament assembly by Spire: key
+# residues and concerted actin binding, J. Mol. Biol., in press,
+# available online Sept. 16, 2014.  DOI: 10.1016/j.jmb.2014.09.002
+#
+# This first column has the concentration of monomeric actin that was
+# used in all competition anisotropy experiments.  The second column
+# has the concentration of SDfluor, the fluorscently labeled Spire D
+# domain, used in all competition anisotropy experiments.  The third
+# column has the concentration of unlabled Spire D used in all of the
+# titrations.  The last four columns contain the anisotropy
+# measurements for each trial.
+#
+# These data were provided by Amy Rasson and Margot Quinlan at UCLA.
+[actin] (uM),[SDfluor] (uM),[SD] (uM),anisotropy trial 1,anisotropy trial 2,anisotropy trial 3,anisotropy trial 4
+2,0.005,196.35,74.8,62.2,59.9,55.2
+,,147.26,76.6,61.8,60.2,56.6
+,,122.7,76.8,62,60.9,56.4
+,,98.175,74.7,64,60.8,57.5
+,,73.63,79.1,66.4,62.1,54.8
+,,49.08,80.8,66.6,64.6,58.6
+,,36.81,82.2,67.6,65.5,59.6
+,,24.54,87.4,69.8,68.5,64.2
+,,18.4,90.7,73.3,71.4,66.9
+,,12.27,95.7,77.6,72.9,72.1
+,,9.2,101.8,82.3,78.5,76
+,,6.13,109.8,86.9,85.1,81.9
+,,3.0669999999999997,120.4,95.5,93.3,89.6
+,,1.5330000000000001,124.1,98.7,96.5,92.1
+,,0,124,101.2,97.1,92.1
